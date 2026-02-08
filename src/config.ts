@@ -58,11 +58,6 @@ export const profileConfig: ProfileConfig = {
 	bio: "curity · Network · Web",
 	links: [
 		{
-			name: "DreamHack",
-			icon: "",
-			url: "https://dreamhack.io/users/50163",
-		},
-		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/saicaca/fuwari",
