@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "DreamHack",
-			icon: "assets/images/dreamhack.png",
+			icon: "",
 			url: "https://dreamhack.io/users/50163",
 		},
 		{
